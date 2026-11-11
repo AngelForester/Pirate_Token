@@ -43,7 +43,7 @@
 | **Acelerador de Extracción** | Contador Acumulable (`+/-`) | Consumible Gris |
 | **Extractor Portátil** | Contador Acumulable (`+/-`) | Consumible Gris |
 | **Localizador de Espíritus** | Contador Acumulable (`+/-`) | Consumible Gris |
-| **Localizador de la Suerte** | Contador Acumulable (`+/-`) | Consumible Gris[cite: 1] |
+| **Localizador de la Suerte** | Contador Acumulable (`+/-`) | Consumible Gris |
 
 ---
 
