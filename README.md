@@ -76,23 +76,32 @@ flutter build apk --release --split-per-abi
 
 ```
 
-📋 Historial de Versiones (Changelog)
+---
+
+# 📋 Historial de Versiones (Changelog) 
+
 v1.0.0 — Community Edition (Lanzamiento Oficial)
 Lanzamiento inicial para la comunidad de X.
 
-Implementación de X Card con modo de captura limpia y rangos dinámicos.
+* **Implementación de X Card con modo de captura limpia y rangos dinámicos.**
 
-Separación de los 7 ítems únicos y 5 consumibles grises acumulables.
+* **Separación de los 7 ítems únicos y 5 consumibles grises acumulables.**
 
-Algoritmo verificador de horas máximas desde el 1 de Noviembre de 2026.
+* **Algoritmo verificador de horas máximas desde el 1 de Noviembre de 2026.**
 
-Base de datos local con sqflite.
+* **Base de datos local con sqflite.**
 
-👨‍💻 Autor y Soporte
-Desarrollado por Ángel Misael Villegas García.
+---
 
-X (Twitter): @AngelForester20
+# 👨‍💻 Autor y Soporte
 
-¿Encontraste algún bug o tienes una idea para la versión v1.1.0? ¡Mándame un DM o mencióname en X con la captura de tu X Card!
+**Desarrollado por Ángel Misael Villegas García.**
 
+**X (Twitter): @AngelForester20**
+
+**¿Encontraste algún bug o tienes una idea para la versión v1.1.0? ¡Mándame un DM o mencióname en X con la captura de tu X Card!**
+
+---
+
+```bash
 Aviso Legal: Esta es una aplicación no oficial creada por fans para la comunidad. No está afiliada, respaldada ni patrocinada por Epic Games, Inc.
